@@ -45,7 +45,7 @@ I create **fully responsive projects using Flexbox, CSS Grid, media queries, and
 | **YouTube Clone** | A clean UI clone focusing on layout structure, spacing, and real UI accuracy. |
 
 **You can view the full source code of my projects in my GitHub repositories:**  
-👉 **https://github.com/ManojMohan-404**
+👉 **https://github.com/ManojMohan-404?tab=repositories**
 
 ---
 
