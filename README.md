@@ -22,6 +22,11 @@ I build fully responsive websites and projects using Flexbox, CSS Grid, media qu
 - 🔥 Always learning something new
 
 ---
+## 🎓 Qualifications
+
+- **Bachelor of Computer Applications (BCA)** – *Completed*  
+- **Master of Computer Applications (MCA)** – *Currently Pursuing*
+---
 
 ## 🕶️ Skills
 
